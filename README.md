@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT Support Infrastructure<br>Open-Source Automation Scripts & DevOps Projects<br>Advanced CI/CD Pipelines & Cloud Architecture Best Practices<br>Python Automation, Git/GitHub Actions, and Cloud Infrastructure (AWS)<br>Linux Administration, Custom Mail Servers, Troubleshooting, and Tech Hardware<br>I will spend 6 hours automating a task that only takes 5 minutes to do manually.
+IT Support Infrastructure<br>Open-Source Automation Scripts & DevOps Projects<br>Advanced CI/CD Pipelines & Cloud Architecture Best Practices<br>Python Automation, Git/GitHub Actions, and Cloud Infrastructure (AWS)<br>Linux Administration, Custom Mail Servers, Troubleshooting, and Tech Hardware<br>
 
 
 ## 🌐 Socials:
